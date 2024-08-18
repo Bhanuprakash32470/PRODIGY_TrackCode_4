@@ -24,12 +24,12 @@ export const NavBar = () => {
           <a href="#aboutme" className='group relative my-6'><IoPersonSharp className='group relative -mx-[1.5rem] -my-5'/>Aboutme
           <span class="absolute bottom-0 -left-[1.5rem]  h-1 bg-[#E2E2B6] rounded-md w-0 transition-all duration-300 ease-in-out group-hover:w-[5.5rem]"></span>
           </a>
-          <li className='group relative my-6'><SiPolymerproject className='group relative -mx-[1.5rem] -my-5'/>Projects
+          <a href="#projects" className='group relative my-6'><SiPolymerproject className='group relative -mx-[1.5rem] -my-5'/>Projects
           <span class="absolute bottom-0 -left-[1.3rem]  h-1 bg-[#E2E2B6] rounded-md w-0 transition-all duration-300 ease-in-out group-hover:w-[4.8rem]"></span>
-          </li>
-          <li className='group relative my-6'><MdOutlineLocalPhone className='group relative -mx-[1.5rem] -my-5'/>Contact
+          </a>
+          <a href="#contact" className='group relative my-6'><MdOutlineLocalPhone className='group relative -mx-[1.5rem] -my-5'/>Contact
           <span class="absolute bottom-0 -left-[1.1rem]  h-1 bg-[#E2E2B6] rounded-md w-0 transition-all duration-300 ease-in-out group-hover:w-[4.6rem]"></span>
-          </li>
+          </a>
         </ul>
       </div>
 

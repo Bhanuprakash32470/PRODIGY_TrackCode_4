@@ -8,7 +8,7 @@ export const Home = () => {
         <div className='w-[60%] my-[5rem] mx-[5rem]'>
             <h1 className='text-[#E2E2B6] text-[5rem]'>Welcome!</h1>
             <h1 className='text-white text-[3rem]'>I'M</h1>
-            <h1 className='text-[#E2E2B6] text-[3rem] mx-[7rem] -my-[4.5rem]'> N.Bhanu Prakash</h1>
+            <h1 className='text-[#E2E2B6] text-[3rem] mx-[7rem] -my-[4.5rem]'> E.Naga Bhanu Prakash</h1>
             <span >
               
             </span>
